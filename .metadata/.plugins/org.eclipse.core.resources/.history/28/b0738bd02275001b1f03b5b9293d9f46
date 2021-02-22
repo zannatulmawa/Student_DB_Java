@@ -48,7 +48,7 @@ function doValidate(){
 		
 		
 		if(rollNumber == ""){
-			rollNumberStatus = false; //This is my program
+			rollNumberStatus = false;
 			rollNumberMsg = "* Roll number is missing"
 			var spanEle = document.getElementById("rollNumberMsg")
 			spanEle.style.color = "red";
