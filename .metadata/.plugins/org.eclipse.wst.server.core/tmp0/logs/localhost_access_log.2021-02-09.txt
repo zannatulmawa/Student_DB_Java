@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:50:19 -0500] "GET /StudentmanagementSystem/add_student.jsp HTTP/1.1" 200 4382
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:50:29 -0500] "POST /StudentmanagementSystem/AddStudentController HTTP/1.1" 404 799
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:50:33 -0500] "GET /StudentmanagementSystem/add_student.jsp HTTP/1.1" 200 4382
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:50:37 -0500] "GET /StudentmanagementSystem/add_student.jsp HTTP/1.1" 200 4382
+127.0.0.1 - - [09/Feb/2021:13:52:00 -0500] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:52:27 -0500] "GET /StudentmanagementSystem/add_student.jsp HTTP/1.1" 200 4382
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:52:36 -0500] "POST /StudentmanagementSystem/AddStudentController HTTP/1.1" 200 -
+0:0:0:0:0:0:0:1 - - [09/Feb/2021:13:52:43 -0500] "GET /StudentmanagementSystem/add_student.jsp HTTP/1.1" 200 4382
